@@ -1,0 +1,6 @@
+- name: Install intellijidea-ultimate
+  win_chocolatey:
+    name: intellijidea-ultimate
+    version: '2021.3'
+    source: http://internal/odata/repo
+    state: present

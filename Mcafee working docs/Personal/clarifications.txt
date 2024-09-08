@@ -1,0 +1,42 @@
+ 
+database config
+
+marketplace
+AWS devs
+s2 -> s3
+(Create POD)
+tdev40
+	tieserver.jar
+backup-upload
+
+
+https://confluence-lvs.prod.mcafee.com/display/PSG/Qualifications+and+Responsibilities
+
+TASKS
+=====
+
+FedRAMP - John Corkish
+
+Abhiram reply all for health check failure
+Block Chris calendar
+
+
+QUESTIONS
+=========
+
+
+product owner <-> business 
+Bryan Barnes (Customer feedback), Briana (marketing/field)
+
+21/11/2021
+----------
+* Verify appliance
+* /etc/rsyslog.conf
+* kern.log
+* daemon.log
+* syslog
+* 
+
+idletieout - maxlifetime
+maximumpoolsize
+

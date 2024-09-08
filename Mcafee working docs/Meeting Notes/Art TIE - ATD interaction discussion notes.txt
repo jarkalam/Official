@@ -1,0 +1,38 @@
+Use Trellix ppt template
+slide 4 Legacy title
+
+MVision ATD cloud
+Slide 5
+MV example
+Slide 6
+proposed DoD version
+
+Slide 7 - TIE server title
+
+DoD
+
+Points to check
+===============
+1. Check how sample are submitted to DoD (REST vs DXL)
+2. 
+
+Clarifications
+==============
+
+1. Polling vs DXL
+2. DOD Report - File identification (report ID) vis-a-vis DXL
+3. Precedence - ATD vs DOD vs VX
+4. Provider ID - External Reputation 
+		1 GTI File Global Threat Intelligence provider for file reputations
+		3 Enterprise File Enterprise provider for file reputations set through ePO
+		5 ATD File Active Threat Defense provider for file reputations
+		7 MWG File McAfee Web Gateway provider for file reputations
+		15 External File External provider for file reputations
+		23 DOD/VX -> new
+5. UI Settings - finalize
+6. UI display - TIE Reputations page
+7. 
+
+
+com/mcafee/jti/server/sandbox/atd/impl/AtdServiceImpl.java
+com/mcafee/jti/server/service/provider/impl/atd/AtdFileReputationProvider.java

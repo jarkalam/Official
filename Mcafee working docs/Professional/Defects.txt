@@ -1,0 +1,32 @@
+TIESERVER-11629: [Dev] Get dependent product compatible MLOS3 version
+=====================================================================
+project = TIESERVER AND "Epic Link" = TIESERVER-7854 AND status not in (done, closed) AND summary ~ Dev
+
+TIESERVER-11569:	TIESERVER-11477/TIE - ATD file submission investigation.
+============================================================================
+title ATD File Submission
+
+SubmitSampleWorker->SubmitSampleWorker:run
+SubmitSampleWorker->AtdClient:doSubmitSample
+Sample Submission request 
+AtdClient->AtdClientSubmitSampleMethod:execute
+AtdClientSubmitSampleMethod->AbstractAtdClientMethod:executeMethod
+AbstractAtdClientMethod->HttpClient:execute
+SubmitSampleWorker<<--HttpClient:[submitResult]
+
+
+
+title ATD Reports Handling
+
+AbstractDxlEventHandler->DxlAtdFileReportEventHandler:processEvent
+DxlAtdFileReportEventHandler->AbstractStringBasedDxlEventHandler:processEvent
+AbstractStringBasedDxlEventHandler->AtdReportHandlerImpl:handle
+AtdReportHandlerImpl->AtdReportHandlerImpl:handleRelatedFiles
+AtdReportHandlerImpl->AtdRelatedFileProcess:run
+
+[1:11 PM] Joshi, Rajeev (Enterprise)
+we have reviewed the slides, they are fine. However just in case if needed you can include mvePO use case as well. 
+
+[1:12 PM] Joshi, Rajeev (Enterprise)
+ATD dont support mvision ePO but TIE provides a way for mvision ePO configuration provided customer has on prem ePO for initial configuration
+

@@ -1,0 +1,10 @@
+DOD Scan Result Mapping Notes
+=============================
+
+1 - Malicious
+2 - Non-malicious
+
+3 - Riskware
+4- CVustom malicious
+
+Unknown - Clean (no differentiation)

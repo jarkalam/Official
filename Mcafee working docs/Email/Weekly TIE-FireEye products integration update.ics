@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Tayal, Nikhil (Enterprise)";RSVP=TRUE:mailto:Nikhil_Tayal@McAf
+	ee.com
+ATTENDEE;CN="Pillai, Rajkamal (Enterprise)";RSVP=TRUE:mailto:rajkamal_pilla
+	i@mcafee.com
+ATTENDEE;CN="Bhargav, Natesh (Enterprise)";RSVP=TRUE:mailto:Natesh_Bhargav@
+	McAfee.com
+ATTENDEE;CN="Kumar, Babloo (Enterprise)";RSVP=TRUE:mailto:babloo_kumar@mcaf
+	ee.com
+ATTENDEE;CN="Thayur, Vadiraj (Enterprise)";RSVP=TRUE:mailto:Vadiraj_Thayur@
+	McAfee.com
+ATTENDEE;CN="Shasannavar, Neeta (Enterprise)";RSVP=TRUE:mailto:Neeta_Shasan
+	navar@McAfee.com
+ATTENDEE;CN="Jain, Ankit (Enterprise)";RSVP=TRUE:mailto:Ankit_Jain@McAfee.c
+	om
+CLASS:PUBLIC
+CREATED:20220130T154525Z
+DESCRIPTION:Hi All\,\n\n \n\nAs asked by Natesh in separate thread\, I am s
+	cheduling this series for Raj to share updates with Natesh on the progress
+	 on FireEye products integration with TIE. We’ll get Babloo also up to t
+	he speed on this.\n\n \n\n+ Vadi so that he is also in the loop and can pl
+	an QA activities accordingly.\n\n \n\nThanks\n\n__________________________
+	______________________________________________________ \n\nMicrosoft Teams
+	 meeting \n\nJoin on your computer or mobile app \n\nClick here to join th
+	e meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhOWY5
+	ZjMtZmZhYy00NGFiLWJlMjgtNjkzMThhMGUzY2I5%40thread.v2/0?context=%7b%22Tid%2
+	2%3a%224943e38c-6dd4-428c-886d-24932bc2d5de%22%2c%22Oid%22%3a%22f7821db6-5
+	731-4ca1-b5a5-5950aee3d119%22%7d>  \n\nJoin with a video conferencing devi
+	ce \n\nteams@vc.mcafee.com <mailto:teams@vc.mcafee.com>  \n\nVideo Confere
+	nce ID: 117 074 188 7 \n\nAlternate VTC instructions <https://pexip.me/tea
+	ms/vc.mcafee.com/1170741887>  \n\nOr call in (audio only) \n\n+1 469-526-4
+	101\,\,728503032# <tel:+14695264101\,\,728503032#>    United States\, Dall
+	as \n\nPhone Conference ID: 728 503 032# \n\nFind a local number <https://
+	dialin.teams.microsoft.com/4f03e6ff-a35f-4b77-9942-cc84498294f8?id=7285030
+	32>  | Reset PIN <https://mysettings.lync.com/pstnconferencing>  \n\nLearn
+	 More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.
+	microsoft.com/meetingOptions/?organizerId=f7821db6-5731-4ca1-b5a5-5950aee3
+	d119&tenantId=4943e38c-6dd4-428c-886d-24932bc2d5de&threadId=19_meeting_OWJ
+	hOWY5ZjMtZmZhYy00NGFiLWJlMjgtNjkzMThhMGUzY2I5@thread.v2&messageId=0&langua
+	ge=en-US>  \n\n___________________________________________________________
+	_____________________ \n\n \n\n
+DTEND;TZID="India Standard Time":20220128T123000
+DTSTAMP:20220127T093800Z
+DTSTART;TZID="India Standard Time":20220128T120000
+LAST-MODIFIED:20220130T154525Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="Tayal, Nikhil (Enterprise)":mailto:Nikhil_Tayal@McAfee.com
+PRIORITY:5
+RECURRENCE-ID;TZID="India Standard Time":20220128T120000
+SEQUENCE:0
+SUMMARY:Weekly TIE-FireEye products integration update
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000090DE257C8E13D801000000000000000
+	010000000740AD55C165D20479452D274007C0BDA
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:x="urn:schemas-microsoft-com:office:excel" x
+	mlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://ww
+	w.w3.org/TR/REC-html40"><head>\n<meta name="Generator" content="Microsoft 
+	Word 15 (filtered medium)"><style><!--\n/* Font Definitions */\n@font-face
+	\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-
+	face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-fa
+	ce\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 4 2 2 3\;}\n@font-f
+	ace\n	{font-family:"Segoe UI Semibold"\;\n	panose-1:2 11 7 2 4 2 4 2 2 3\;
+	}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{
+	margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,sans-serif\;}\n
+	a:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	
+	text-decoration:underline\;}\nspan.EmailStyle18\n	{mso-style-type:personal
+	-compose\;\n	font-family:"Segoe UI"\,sans-serif\;\n	color:windowtext\;}\n.
+	MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;}\n@page
+	 WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;}\n
+	div.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><x
+	ml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!
+	--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit
+	" data="1" />\n</o:shapelayout></xml><![endif]--></head><body lang="EN-US"
+	 link="#0563C1" vlink="#954F72" style="word-wrap:break-word"><div class="W
+	ordSection1"><p class="MsoNormal"><span style="font-size:10.0pt\;font-fami
+	ly:&quot\;Segoe UI&quot\;\,sans-serif">Hi All\,<o:p></o:p></span></p><p cl
+	ass="MsoNormal"><span style="font-size:10.0pt\;font-family:&quot\;Segoe UI
+	&quot\;\,sans-serif"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal"><sp
+	an style="font-size:10.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif
+	">As asked by Natesh in separate thread\, I am scheduling this series for 
+	Raj to share updates with Natesh on the progress on FireEye products integ
+	ration with TIE. We&#8217\;ll get Babloo also up to the speed on this.<o:p
+	></o:p></span></p><p class="MsoNormal"><span style="font-size:10.0pt\;font
+	-family:&quot\;Segoe UI&quot\;\,sans-serif"><o:p>&nbsp\;</o:p></span></p><
+	p class="MsoNormal"><span style="font-size:10.0pt\;font-family:&quot\;Sego
+	e UI&quot\;\,sans-serif">+ Vadi so that he is also in the loop and can pla
+	n QA activities accordingly.<o:p></o:p></span></p><p class="MsoNormal"><sp
+	an style="font-size:10.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif
+	"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal"><span style="font-size
+	:10.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif">Thanks<o:p></o:p>
+	</span></p><div><p class="MsoNormal"><span style="color:#5F5F5F">_________
+	_______________________________________________________________________</s
+	pan> <o:p></o:p></p></div><div><div style="margin-top:.25in\;margin-bottom
+	:15.0pt"><p class="MsoNormal"><span style="font-size:18.0pt\;font-family:&
+	quot\;Segoe UI&quot\;\,sans-serif\;color:#252424">Microsoft Teams meeting<
+	/span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#
+	252424"> <o:p></o:p></span></p></div><div style="margin-bottom:15.0pt"><di
+	v><p class="MsoNormal"><b><span style="font-size:10.5pt\;font-family:&quot
+	\;Segoe UI&quot\;\,sans-serif\;color:#252424">Join on your computer or mob
+	ile app</span></b><b><span style="font-family:&quot\;Segoe UI&quot\;\,sans
+	-serif\;color:#252424"> <o:p></o:p></span></b></p></div><p class="MsoNorma
+	l"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252
+	424"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhO
+	WY5ZjMtZmZhYy00NGFiLWJlMjgtNjkzMThhMGUzY2I5%40thread.v2/0?context=%7b%22Ti
+	d%22%3a%224943e38c-6dd4-428c-886d-24932bc2d5de%22%2c%22Oid%22%3a%22f7821db
+	6-5731-4ca1-b5a5-5950aee3d119%22%7d" target="_blank"><span style="font-siz
+	e:10.5pt\;font-family:&quot\;Segoe UI Semibold&quot\;\,sans-serif\;color:#
+	6264A7">Click here to join the meeting</span></a> <o:p></o:p></span></p></
+	div><div style="margin-bottom:3.0pt"><p class="MsoNormal"><b><span style="
+	font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#2
+	52424">Join with a video conferencing device</span></b><span style="font-f
+	amily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"> <o:p></o:p></spa
+	n></p></div><div><p class="MsoNormal"><span style="font-size:10.5pt\;font-
+	family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"><a href="mailto:
+	teams@vc.mcafee.com">teams@vc.mcafee.com</a> <o:p></o:p></span></p></div><
+	div><p class="MsoNormal"><span style="font-size:10.5pt\;font-family:&quot\
+	;Segoe UI&quot\;\,sans-serif\;color:#252424">Video Conference ID: </span><
+	span style="font-size:12.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-ser
+	if\;color:#252424">117 074 188 7 </span><span style="font-family:&quot\;Se
+	goe UI&quot\;\,sans-serif\;color:#252424"><o:p></o:p></span></p></div><div
+	 style="margin-bottom:15.0pt"><p class="MsoNormal"><span style="font-size:
+	10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"><a 
+	href="https://pexip.me/teams/vc.mcafee.com/1170741887"><span style="color:
+	#6264A7">Alternate VTC instructions</span></a> <o:p></o:p></span></p></div
+	><div style="margin-bottom:3.0pt"><div style="margin-bottom:3.0pt"><p clas
+	s="MsoNormal"><b><span style="font-size:10.5pt\;font-family:&quot\;Segoe U
+	I&quot\;\,sans-serif\;color:#252424">Or call in (audio only)</span></b><sp
+	an style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"> 
+	<o:p></o:p></span></p></div><div style="margin-bottom:3.0pt"><p class="Mso
+	Normal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color
+	:#252424"><a href="tel:+14695264101\,\,728503032# "><span style="font-size
+	:10.5pt\;color:#6264A7">+1 469-526-4101\,\,728503032#</span></a> </span><s
+	pan style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-seri
+	f\;color:#252424">&nbsp\; United States\, Dallas </span><span style="font-
+	family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"><o:p></o:p></spa
+	n></p></div></div><p class="MsoNormal"><span style="font-size:10.5pt\;font
+	-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424">Phone Conferenc
+	e ID: </span><span style="font-size:12.0pt\;font-family:&quot\;Segoe UI&qu
+	ot\;\,sans-serif\;color:#252424">728 503 032# </span><span style="font-fam
+	ily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"><o:p></o:p></span><
+	/p><div style="margin-bottom:15.0pt"><p class="MsoNormal"><span style="fon
+	t-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"><a href="https
+	://dialin.teams.microsoft.com/4f03e6ff-a35f-4b77-9942-cc84498294f8?id=7285
+	03032" target="_blank"><span style="font-size:10.5pt\;color:#6264A7">Find 
+	a local number</span></a> | <a href="https://mysettings.lync.com/pstnconfe
+	rencing" target="_blank"><span style="font-size:10.5pt\;color:#6264A7">Res
+	et PIN</span></a> <o:p></o:p></span></p></div><div style="margin-top:15.0p
+	t\;margin-bottom:.25in"><p class="MsoNormal"><span style="font-family:&quo
+	t\;Segoe UI&quot\;\,sans-serif\;color:#252424"><a href="https://aka.ms/Joi
+	nTeamsMeeting" target="_blank"><span style="font-size:10.5pt\;color:#6264A
+	7">Learn More</span></a> | <a href="https://teams.microsoft.com/meetingOpt
+	ions/?organizerId=f7821db6-5731-4ca1-b5a5-5950aee3d119&amp\;tenantId=4943e
+	38c-6dd4-428c-886d-24932bc2d5de&amp\;threadId=19_meeting_OWJhOWY5ZjMtZmZhY
+	y00NGFiLWJlMjgtNjkzMThhMGUzY2I5@thread.v2&amp\;messageId=0&amp\;language=e
+	n-US" target="_blank"><span style="font-size:10.5pt\;color:#6264A7">Meetin
+	g options</span></a> <o:p></o:p></span></p></div></div><div><p class="MsoN
+	ormal"><span style="color:#5F5F5F">_______________________________________
+	_________________________________________</span> <o:p></o:p></p></div><p c
+	lass="MsoNormal"><span style="font-size:10.0pt\;font-family:&quot\;Segoe U
+	I&quot\;\,sans-serif"><o:p>&nbsp\;</o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+END:VCALENDAR

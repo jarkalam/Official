@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Corkish, John (Enterprise)";RSVP=TRUE:mailto:John_Corkish@McAf
+	ee.com
+ATTENDEE;CN="Nayak, Satyadarshi Debasish (Enterprise)";RSVP=TRUE:mailto:sat
+	yadarshidebasish_nayak@mcafee.com
+ATTENDEE;CN="Tayal, Nikhil (Enterprise)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mai
+	lto:Nikhil_Tayal@McAfee.com
+ATTENDEE;CN="Bhargav, Natesh (Enterprise)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:m
+	ailto:Natesh_Bhargav@McAfee.com
+CLASS:PUBLIC
+CREATED:20211210T065728Z
+DESCRIPTION:Hello John\,\n\n \n\nAs you would be aware I will be taking up 
+	the role as SSA and @Nayak\, Satyadarshi Debasish (Enterprise) <mailto:sat
+	yadarshidebasish_nayak@mcafee.com>  will be the SSE for the new TIE team.\
+	n\nThis meeting is meant as an introductory session for the necessary acti
+	vities to be taken up for TIE and the steps going forward.\n\nWe would lik
+	e your assistance as well as guidance with the above.\n\n \n\nNote: Modifi
+	ed to accommodate new time proposed by John.    \n\n \n\nBest regards\,\n\
+	nRajkamal Pillai.\n\n_____________________________________________________
+	___________________________ \n\nMicrosoft Teams meeting \n\nJoin on your c
+	omputer or mobile app \n\nClick here to join the meeting <https://teams.mi
+	crosoft.com/l/meetup-join/19%3ameeting_NTA2Yzc4YWItNTM1Mi00NTU4LThjZTktNTE
+	1ZTVhYTIwODVh%40thread.v2/0?context=%7b%22Tid%22%3a%224943e38c-6dd4-428c-8
+	86d-24932bc2d5de%22%2c%22Oid%22%3a%228f730612-fc38-4099-80b3-3485ed9eb4a5%
+	22%7d>  \n\nJoin with a video conferencing device \n\nteams@vc.mcafee.com 
+	<mailto:teams@vc.mcafee.com>  \n\nVideo Conference ID: 112 701 030 6 \n\nA
+	lternate VTC instructions <https://pexip.me/teams/vc.mcafee.com/1127010306
+	>  \n\nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <ht
+	tps://teams.microsoft.com/meetingOptions/?organizerId=8f730612-fc38-4099-8
+	0b3-3485ed9eb4a5&tenantId=4943e38c-6dd4-428c-886d-24932bc2d5de&threadId=19
+	_meeting_NTA2Yzc4YWItNTM1Mi00NTU4LThjZTktNTE1ZTVhYTIwODVh@thread.v2&messag
+	eId=0&language=en-US>  \n\n_______________________________________________
+	_________________________________ \n\n \n\n
+DTEND;TZID="India Standard Time":20211210T163000
+DTSTAMP:20211207T100835Z
+DTSTART;TZID="India Standard Time":20211210T160000
+LAST-MODIFIED:20211210T065728Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="Pillai, Rajkamal (Enterprise)":mailto:rajkamal_pillai@mcafee.
+	com
+PRIORITY:5
+SEQUENCE:3
+SUMMARY;LANGUAGE=en-us:[Update] SSA and SSE roles ~ handholding and action 
+	items.
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000002013A038C4E7D701000000000000000
+	010000000827B4D06963AE04B819A3DBD9ECF459B
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2
+	 4 3 2 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 
+	2 4 2 2 3\;}\n@font-face\n	{font-family:"Segoe UI Semibold"\;\n	panose-1:2
+	 11 7 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNorma
+	l\, div.MsoNormal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Cali
+	bri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;
+	\n	color:#0563C1\;\n	text-decoration:underline\;}\nspan.EmailStyle18\n	{ms
+	o-style-type:personal-compose\;\n	font-family:"Calibri"\,sans-serif\;\n	co
+	lor:#1F3864\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size
+	:10.0pt\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in
+	 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--
+	[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</x
+	ml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:
+	idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><
+	body lang=EN-US link="#0563C1" vlink="#954F72" style='word-wrap:break-word
+	'><div class=WordSection1><p class=MsoNormal><span style='color:#1F3864'>H
+	ello John\,<o:p></o:p></span></p><p class=MsoNormal><span style='color:#1F
+	3864'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><span style='color:#
+	1F3864'>As you would be aware I will be taking up the role as SSA and <a i
+	d=OWAAMC77D3A42AB1A47948F2D3ED840AB31CB href="mailto:satyadarshidebasish_n
+	ayak@mcafee.com"><span style='font-family:"Calibri"\,sans-serif\;text-deco
+	ration:none'>@Nayak\, Satyadarshi Debasish (Enterprise)</span></a> will be
+	 the SSE for the new TIE team.<o:p></o:p></span></p><p class=MsoNormal><sp
+	an style='color:#1F3864'>This meeting is meant as an introductory session 
+	for the necessary activities to be taken up for TIE and the steps going fo
+	rward.<o:p></o:p></span></p><p class=MsoNormal><span style='color:#1F3864'
+	>We would like your assistance as well as guidance with the above.<o:p></o
+	:p></span></p><p class=MsoNormal><span style='color:#1F3864'><o:p>&nbsp\;<
+	/o:p></span></p><p class=MsoNormal><span style='color:#1F3864'>Note: Modif
+	ied to accommodate new time proposed by John.&nbsp\;&nbsp\;&nbsp\; <o:p></
+	o:p></span></p><p class=MsoNormal><span style='color:#1F3864'><o:p>&nbsp\;
+	</o:p></span></p><p class=MsoNormal><span style='color:#1F3864'>Best regar
+	ds\,<o:p></o:p></span></p><p class=MsoNormal><span style='color:#1F3864'>R
+	ajkamal Pillai.<o:p></o:p></span></p><div><p class=MsoNormal><span style='
+	color:#5F5F5F'>___________________________________________________________
+	_____________________</span> <o:p></o:p></p></div><div><div style='margin-
+	top:.25in\;margin-bottom:15.0pt'><p class=MsoNormal><span style='font-size
+	:18.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>Microsoft Team
+	s meeting</span><span style='font-family:"Segoe UI"\,sans-serif\;color:#25
+	2424'> <o:p></o:p></span></p></div><div style='margin-bottom:15.0pt'><div>
+	<p class=MsoNormal><b><span style='font-size:10.5pt\;font-family:"Segoe UI
+	"\,sans-serif\;color:#252424'>Join on your computer or mobile app</span></
+	b><b><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'> <o:p
+	></o:p></span></b></p></div><p class=MsoNormal><span style='font-family:"S
+	egoe UI"\,sans-serif\;color:#252424'><a href="https://teams.microsoft.com/
+	l/meetup-join/19%3ameeting_NTA2Yzc4YWItNTM1Mi00NTU4LThjZTktNTE1ZTVhYTIwODV
+	h%40thread.v2/0?context=%7b%22Tid%22%3a%224943e38c-6dd4-428c-886d-24932bc2
+	d5de%22%2c%22Oid%22%3a%228f730612-fc38-4099-80b3-3485ed9eb4a5%22%7d" targe
+	t="_blank"><span style='font-size:10.5pt\;font-family:"Segoe UI Semibold"\
+	,sans-serif\;color:#6264A7'>Click here to join the meeting</span></a> <o:p
+	></o:p></span></p></div><div style='margin-bottom:3.0pt'><p class=MsoNorma
+	l><b><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;co
+	lor:#252424'>Join with a video conferencing device</span></b><span style='
+	font-family:"Segoe UI"\,sans-serif\;color:#252424'> <o:p></o:p></span></p>
+	</div><div><p class=MsoNormal><span style='font-size:10.5pt\;font-family:"
+	Segoe UI"\,sans-serif\;color:#252424'><a href="mailto:teams@vc.mcafee.com"
+	>teams@vc.mcafee.com</a> <o:p></o:p></span></p></div><div><p class=MsoNorm
+	al><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;colo
+	r:#252424'>Video Conference ID: </span><span style='font-size:12.0pt\;font
+	-family:"Segoe UI"\,sans-serif\;color:#252424'>112 701 030 6 </span><span 
+	style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><o:p></o:p></spa
+	n></p></div><div style='margin-bottom:15.0pt'><p class=MsoNormal><span sty
+	le='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'><
+	a href="https://pexip.me/teams/vc.mcafee.com/1127010306"><span style='colo
+	r:#6264A7'>Alternate VTC instructions</span></a> <o:p></o:p></span></p></d
+	iv><div style='margin-top:15.0pt\;margin-bottom:.25in'><p class=MsoNormal>
+	<span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><a href="h
+	ttps://aka.ms/JoinTeamsMeeting" target="_blank"><span style='font-size:10.
+	5pt\;color:#6264A7'>Learn More</span></a> | <a href="https://teams.microso
+	ft.com/meetingOptions/?organizerId=8f730612-fc38-4099-80b3-3485ed9eb4a5&am
+	p\;tenantId=4943e38c-6dd4-428c-886d-24932bc2d5de&amp\;threadId=19_meeting_
+	NTA2Yzc4YWItNTM1Mi00NTU4LThjZTktNTE1ZTVhYTIwODVh@thread.v2&amp\;messageId=
+	0&amp\;language=en-US" target="_blank"><span style='font-size:10.5pt\;colo
+	r:#6264A7'>Meeting options</span></a> <o:p></o:p></span></p></div></div><d
+	iv><p class=MsoNormal><span style='color:#5F5F5F'>________________________
+	________________________________________________________</span> <o:p></o:p
+	></p></div><p class=MsoNormal><span style='color:#1F3864'><o:p>&nbsp\;</o:
+	p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:3
+X-MS-OLK-APPTSEQTIME:20211207T100835Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

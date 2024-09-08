@@ -1,0 +1,42 @@
+ATD Sampl Submision Process
+===========================
+
+SubmitSampleWorker.run()
+SubmitSampleWorker.doSubmitSample()
+AtdClient.submit()
+AtdClientSubmitSampleMethod.execute()
+
+
+ATD file submission details
+===========================
+
+Configuration -> 
+TIE_Server/server-sandbox/src/com/mcafee/jti/server/sandbox/atd/impl/AtdConfigurationHolder
+
+ATD connectivity -> 
+TIE_Server/server-sandbox/src/com/mcafee/jti/server/sandbox/atd/impl/client/http/AtdHttpClientFactory
+TIE_Server/server/src/com/mcafee/jti/server/service/health/checks/atdstatus/AtdConnectivityData
+TIE_Server/server-sandbox/src/com/mcafee/jti/server/sandbox/atd/impl/AtdSandboxProvider
+
+
+ATD health check-> 
+TIE_Server/server/src/com/mcafee/jti/server/service/health/checks/atdstatus/
+TIE_Server/server/src/com/mcafee/jti/server/service/health/checks/atdstatus/AtdConnectivityHealthMonitor
+
+
+IPE Pattern registration -> (provision/de-provision tenant)
+TIE_Server/extensions/TIEServerMgmt/src/com/mcafee/tie/server/ext/util/IpePatternRegistrationWrapper
+
+ATD Service -> 
+TIE_Server/server-sandbox/src/com/mcafee/jti/server/sandbox/atd/AtdService
+TIE_Server/server/src/com/mcafee/jti/server/sandbox/atd/impl/AtdServiceImpl
+
+ATD sample submission ->
+TIE_Server/server-sandbox/src/com/mcafee/jti/server/sandbox/atd/impl/client/AtdClientSubmitSampleMethod.execute()
+
+
+title ATD file submission
+
+SubmitSampleWorker.run->SubmitSampleWorker.doSubmitSample:Sample Submission request 
+SubmitSampleWorker.doSubmitSample->AtdClient.submit:
+AtdClient.submit->AtdClientSubmitSampleMethod.execute:

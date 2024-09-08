@@ -1,0 +1,41 @@
+
+myself in situation as i cant figure out whom to trust,aravind metioned u beleive in work getting done and dont involve in politics
+
+Arvind.
+
+It has been 41 working days since I joined including public holidays and excluding weends.
+
+The team is now at level 0. NOthing has been done which includes setting up a development where developers can work/debug and fix defects asigned. In spite they are delivering. All of this is being covered up.
+
+Soon after I joined when I reached out to architects in other teams I was told to face that I am seting wrong expectations and I should say No when asked to take up anything new. This is all harassment and bullying. Demotivating and demoralizing to add.
+
+When Baco de Chile customer issue came up I was all by myself interacting with multiple people across teams to gather information. Based on this I developed the solution which was presented before the client and 
+1) lied to customer
+2)solutions based on asssumptions ,in reality reached out to brian and christopher
+3)reaching out is setting wrong expectations and nikhil will not back me up - if you do that I will not back you.
+
+I had called up a meeting with Natesh after which the bullying increased many fold.
+
+Client expectations ar enot set right - Sequence diagrams - we cant expose that. info sec violation. this is to add presssure and keep me occupied so that I cannot contribute productively.
+
+withholding information
+Argentina team left without kt but later in my research i found video seesions that was recorded by nikhil but was never mentioned.
+
+Multiple times mentioned that he is not comfortable taking up DXL because higherups are not confident with my technical capabilities.
+
+Work experience Ariba - I ave faced pressure before but this is artificially created. Multiple clients and parallel
+
+All of this is to cover up failures and I have even been threatened that he will make sure that I cannot continue. I will be thrown out within a month. Even then I assure you no work will happen the way things are.
+
+Kshitij
+Senthil
+Arvind
+
+Smrithi Jha
+Snthilnathan Venkatesan
+
+Had a follow-up discussion with @Brian. I mentioned one of the considerations related to the database clean-up and Brian opined that was a valid use-case. Brian also mentioned that someone from the team had already reached out (without my guidance) to him to discuss database clean-up and Brian had shared a script. With the consideration I mentioned we would need to add more logic to the script. I had clearly mentioned to the team to include me when reaching out. Brian added that we have to be on the same page when dealing with customers. 
+
+
+
+Confluence - DXL KT sessions

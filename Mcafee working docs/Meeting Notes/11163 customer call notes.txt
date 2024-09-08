@@ -1,0 +1,19 @@
+Replication scenarios
+---------------------
+md5 Reputation update 
+customer agreed to the scenarios as presented is correct
+customer wanted to know if this was applicable to md5 alone
+we answered in positive
+customer is able to see the issue happening with SHA1 as well (pending confirmation)
+
+Dec 7 analysis date - more details (ETA)	
+
+JCM - customer question + timelines - week of 20th - early drop
+acceleratng QA efforts noted
+Monday - Analysis ETA - Email expected with more analysis details
+
+No more Rep updates scenario - 
+External reference usage? ePO covers all scenarios
+TIE cache clearing? Manual step
+Manual clearing of multiple Reputation rows (TIE Db)
+Customer is clear of this step

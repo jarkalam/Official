@@ -1,0 +1,57 @@
+VCenter
+-------
+
+Pillai, Rajkamal (E) rajkamal_pillai@mcafee.com
+User - RPillai@vsphere.local
+Pass - McAfee!!123
+
+https://web.microsoftstream.com/browse?q=TIE
+
+MediAssist
+
+rajkamal_r@techie.com
+dv553685_MB!
+
+rajvmdev
+10.54.0.7
+
+
+Paul Langley
+Mohan 
+Langley, Paul (Enterprise) <Paul_Langley@McAfee.com>; Kumar KR, Mohan (Enterprise) <Mohan_kumarKR@McAfee.com>
+Conjar, Vladimir (Enterprise) <Vladimir_Conjar@McAfee.com>
+
+AWS costs
+---------
+
+•	MVISION ePO TIE Server Cluster
+•	McAfee MVISION ePO TIE Server Cluster
+•	McAfee MVISION ePO TIE Server Database Cluster
+
+
+healthcheck failure in AU region
+--------------------------------
+ePO -> System Tree
+		Server Settings
+			Server Topology Management
+
+AWS costs
+---------
+ENS
+
+
+John Corkish
+DAvid Auxley
+Harish
+Art Seigler
+
+
+Deadlocks
+
+sequencediagram.org
+
+hashtools
+ReputationActionHandler
+CreateFile
+sendEvent
+publish

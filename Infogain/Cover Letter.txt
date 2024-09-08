@@ -1,0 +1,11 @@
+Hello,
+
+I am a Technical Architect having 21 years of experience with software architecture, design, development, performance tuning and delivery of cloud and web applications. I have architected and implemented applications on Cloud, BFSI, SCM, ERP, Travel and E-commerce domains using JEE platform and am proficient on MicroServices Architecture, Docker, Kubernetes, AJAX (ExtJs, Dojo, DWR), Struts, Spring, Hibernate, XML and JavaScript frameworks. 
+
+I am actively seeking a role that benefits my experience and challenges my capabilities. After going over the role descriptions I find that I am a good match for the position advertised for and would like to apply and be part of the selection process.
+
+More details about the applications I have worked on and other competencies are detailed in my profile.
+
+
+Best regards,
+Rajkamal Pillai.

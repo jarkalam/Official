@@ -1,0 +1,20 @@
+ Rajat Saxena
+ 
+ GTI connectivity - through TIE?
+ 
+ [4:20 PM] Saxena, Rajat (Enterprise)
+Reputation:
+Endpoint Component -> GTI [ePO-Server-GUID, MA-GUID]
+On-Prem ePO: Endpoint Component -> TIE -> GTI [ePO-Server-GUID]
+MV ePO: Endpoint Component -> TIE -> GTI [??]
+[GTI REST Endpoint]
+Detection:
+TIE Detection Telemetry does not have any identifier
+[GTI Repper Endpoint]-----------------------------------------------------------------------------------------------1. TIE Reputation Telemetry, Agent GUID (or a list of GUIDs) must be present [Must-Have]
+2. TIE Reputation Telemetry must have a flag to differentiate between first call vs refresh call [Must-Have]
+3. TIE Detection Telemetry must have ePO and Device Identifier (ePO GUID and Agent GUIDs) [Good-to-Have]
+
+
+
+* check the same on MVision ePO
+ 

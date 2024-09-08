@@ -1,0 +1,8 @@
+John Korkish
+------------
+
+PSET/PCIRT programme
+SDL - scans
+CVE - Common vulnerability enumeration
+CVSS score
+

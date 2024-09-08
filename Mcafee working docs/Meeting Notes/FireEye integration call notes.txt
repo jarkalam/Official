@@ -1,0 +1,33 @@
+ENS-ATD
+
+File submission IPE pattern - ATD
+Discus with Jagthish Poornalingam (FireEye)
+ATD (Rajesh)
+Post Rep change back to TIE (UX)
+Sai Vasisht
+
+
+1.	Sai to discuss with Mohan Krishnan on authentication
+2.	Jag and Rajkamal to discuss IPE pattern changes
+3.	Sai and Rajkamal to discuss reputation change, connecting ATD to TIE
+4.	Rajesh Ratakonda or someone from his team to provide a TOI on ATD. Session scheduled 12/22/21 Wednesday 8pm PST.
+5.	Sajeed Kunhi to provide a dev environment for integration (copied).
+
+
+Integration Pattern Engine
+==========================
+
+/var/McAfee/dxlbroker/ipe/
+https:://beasource3.corp.nai.org/svn/projects/dxl/branches/release_400
+https://github-lvs.corpzone.internalzone.com/newco/dxl-messaging-dxl
+
+Bridge Pattern
+
+Connectors:	1) HttpFabricConnector			- HTTP & HTTPS
+			2) CiscoPxFabricGridConnector	- CiscoPxGrid & DXL
+			3) DatabusFabricProxyConnector 	- Kafka
+			4) DxlFabricConnector			- DXL Fabric
+			5) MarFabricConnector			- 
+
+Plugin:	EpoPlugin
+
